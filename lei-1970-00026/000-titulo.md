@@ -1,0 +1,2 @@
+# LEI Nº 26 De 2 de fevereiro de 1.970 "Dispõe sabre a constituição e competência do Conselho Municipal de Turismo e dá outras providências".
+Eu, DORIVALCO LORIA JÚNIOR, Prefeito do Município de Praia Grande, usando das atribuições que me são conferidas por Lei, Faço saber que a Câmara Municipal, em sua 1º Sessão Ordinária, realizada em 21 de janeiro de 1.970, decretou e eu promulgo a seguinte Lei,
