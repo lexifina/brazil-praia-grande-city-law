@@ -1,0 +1,1 @@
+# Lei Ordinária nº 125, de 08 de janeiro de 1973 Cria e extingue cargos e funções gratificadas e dá outras providências Eu, DORIVALDO LORIA JÚNIOR, Prefeito do Município de Praia Grande, usando das atribuições que me são conferidas por Lei, Faço saber que os termos do § 3º do artigo 26 do Decreto Lei Complementar número 09, de 31 de dezembro de 1969, promulgo a seguinte Lei:
