@@ -1,0 +1,1 @@
+# A Câmara Municipal da Estância Balneária de Praia Grande, no uso de suas atribuições constitucionais e legais, em Sessão Solene de 06 de Abril de 1.990, promulga a presente Lei Orgânica, com as seguintes disposições:
