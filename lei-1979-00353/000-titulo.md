@@ -1,0 +1,2 @@
+# Lei Ordinária nº 353, de 21 de dezembro de 1979 Dispõe sobre a majoração de vencimentos dos funcionários da Câmara Municipal de Praia Grande e da outras Providências.
+DORIVALDO LORIA JUNIOR, Prefeito do Município de Praia Grande - Estância Balneária -, usando das atribuiçoes que me sao conferidas por Lei, Faço saber que a Câmara Municipal em sua Trigésima Nona Sessão Ordinária, realizada no dia 28 de novembro de 1979, aprovou e eu sanciono e promulgo a seguinte Lei,
