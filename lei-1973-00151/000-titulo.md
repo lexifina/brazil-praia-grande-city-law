@@ -1,0 +1,2 @@
+# Lei Ordinária nº 151, de 29 de junho de 1973 Dispõe sobre aumento de vencimentos dos Funcionários da Secretaria da Câmara Municipal de Praia Grande, e dá outras providências.
+LEOPOLDO ESTÁSIO VANDERLINDE, Prefeito do Município de Praia Grande, usando das atribuições que me são conferidas por Lei, Faço saber que a Câmara Municipal de Praia Grande em sua Vigésima Segunda Sessão Ordinária, realizada em 27 de junho de 1973, aprovou e eu sanciono e promulgo a seguinte Lei:
