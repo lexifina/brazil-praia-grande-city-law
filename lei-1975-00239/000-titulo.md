@@ -1,0 +1,2 @@
+# Lei Ordinária nº 239, de 23 de dezembro de 1975 Dispõe sobre majoração de vencimentos dos Servidores da Câmara Municipal, e dá outras providências.
+Eu, LEOPOLDO ESTÁCIO VANDERLINDE, Prefeito do Município de Praia Grande, usando das atribuições que me são conferidas por Lei, Faço saber que a Câmara Municipal, em sua Quarta Sessão Extraordinária, realizada no dia 09 de dezembro de 1975, aprovou e eu sanciono e promulgo a seguinte Lei,
