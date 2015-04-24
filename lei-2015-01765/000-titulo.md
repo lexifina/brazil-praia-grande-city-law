@@ -1,0 +1,2 @@
+# LEI Nº 1765 De 24 de Abril de 2015 Institui campanha de conscientização e de prevenção dos abusos sexuais contra mulheres no transporte público e em locais de grande aglomeração de pessoas no Município de Praia Grande, e dá outas providências.
+O Presidente da Câmara Municipal da Estância Balneária de Praia Grande, no uso das atribuições que lhes são conferidas pelo artigo 54, § 10 da Lei Orgânica Municipal, Faz saber que a Câmara Municipal, em sua Décima Primeira Sessão Ordinária, realizada em 15 de abril de 2015, aprovou e ele promulga a seguinte Lei:
