@@ -1,0 +1,2 @@
+# LEI Nº 1918 De 18 de Dezembro de 2018 Dispõe sobre a Permuta de Áreas de Propriedade Municipal por outras de Propriedade Particular.
+O Prefeito do Município da Estância Balneária de Praia Grande, no uso das atribuições que lhe são conferidas por Lei, Faz saber que a Câmara Municipal, em sua Décima Sétima Sessão Extraordinária, realizada em 18 de dezembro de 2018, aprovou e eu promulgo a seguinte Lei:
