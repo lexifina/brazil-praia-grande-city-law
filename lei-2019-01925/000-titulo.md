@@ -1,0 +1,2 @@
+# LEI Nº 1925 De 11 de Fevereiro de 2019 Dispõe sobre a proibição da utilização de veículos de tração animal para uso de transporte de objetos no âmbito da Estância Balneária de Praia Grande.
+O Presidente da Câmara Municipal da Estância Balneária de Praia Grande, no uso das atribuições que lhes são conferidas pelo artigo 54, § 10 da Lei Orgânica Municipal, Faço saber que a Câmara Municipal, em sua Décima Quarta Sessão Extraordinária, da Segunda Sessão Legislativa da Décima Segunda Legislatura, realizada no dia 04 de dezembro de 2018, aprovou e eu promulgo a seguinte Lei:
