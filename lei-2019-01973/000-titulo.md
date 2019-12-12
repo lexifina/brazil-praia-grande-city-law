@@ -1,0 +1,2 @@
+# LEI Nº 1973 De 12 de Dezembro de 2019 Dá Nova Redação ao Parágrafo Único do Art. 1º da Lei nº 1918 de 18 de Dezembro de 2018.
+O Prefeito do Município da Estância Balneária de Praia Grande, no uso das atribuições que lhe são conferidas por Lei, Faz saber que a Câmara Municipal de Praia Grande, em sua Décima Quarta Sessão Extraordinária, da Terceira Sessão Legislativa da Décima Segunda Legislatura, realizada em 10 de dezembro de 2019, aprovou e eu promulgo a seguinte Lei:
