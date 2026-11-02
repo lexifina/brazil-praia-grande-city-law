@@ -1,0 +1,9 @@
+{
+  "path": "br-sp-praia-grande",
+  "code": "BR-SP-PRAIA-GRANDE",
+  "name": "Praia Grande (city)",
+  "level": "municipality",
+  "parent": "br-sp",
+  "repo": "https://github.com/lexifina/brazil-praia-grande-city-law",
+  "build": "built: the law of Praia Grande from the Câmara Municipal's SAPL"
+}

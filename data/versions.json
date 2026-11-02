@@ -1,0 +1,513 @@
+{
+ "country": "BR-SP-PRAIA-GRANDE",
+ "acts": [
+  {
+   "slug": "lei-organica",
+   "short": "LOM-Praia-Grande",
+   "title": "Lei Orgânica do Município de Praia Grande",
+   "url": "https://sapl.praiagrande.sp.leg.br/norma/4",
+   "versions": [
+    {
+     "from": "1990-04-06",
+     "units": 277,
+     "source_url": "https://sapl.praiagrande.sp.leg.br/ta/7/text/vigencia/0,1990-04-06,1990-08-28:gLqzjDzy7ObAvSYdERY-ajWkLp4/",
+     "sha256": "3cd4496519baa552ac6f3dfb2af813e1980551e739040814d280c14355142008"
+    },
+    {
+     "from": "1990-08-29",
+     "units": 277,
+     "source_url": "https://sapl.praiagrande.sp.leg.br/ta/7/text/vigencia/117,1990-08-29,1991-06-11:Qt9eBaKpGLhhsB5tJ0_6inPKot0/",
+     "sha256": "882c8a50bb7c766e1491e884667c618719ecf813654a76f2937769445704370d"
+    },
+    {
+     "from": "1991-06-12",
+     "units": 277,
+     "source_url": "https://sapl.praiagrande.sp.leg.br/ta/7/text/vigencia/118,1991-06-12,1991-06-25:MMINyztP9GMsNZM5qVVg0y1abho/",
+     "sha256": "18c21dc4fefb0786ab2eff31ce864be3485add0d2b6e1e077f2570fb337213b6"
+    },
+    {
+     "from": "1991-06-26",
+     "units": 277,
+     "source_url": "https://sapl.praiagrande.sp.leg.br/ta/7/text/vigencia/119,1991-06-26,1991-09-24:dkmlS8x9l_iCmJQoYLoaP5LxNwM/",
+     "sha256": "6b324d9319182fe4e1f2899d48958b109dd596dd92e6b0c5f2c550028a3f6b42"
+    },
+    {
+     "from": "1991-06-26",
+     "units": 277,
+     "source_url": "https://sapl.praiagrande.sp.leg.br/ta/7/text/vigencia/120,1991-06-26,1991-09-24:rmnnAUKmoXbbJDfCCuV7ru8qJkc/",
+     "sha256": "671d3fb70a9a9e0707d56ce036b44893e2e5d69db4d28581ec3fbc8e29690fdf"
+    },
+    {
+     "from": "1991-09-25",
+     "units": 277,
+     "source_url": "https://sapl.praiagrande.sp.leg.br/ta/7/text/vigencia/121,1991-09-25,1991-10-14:rNva2yPU7YYSLeBKXnVGw1_zsqs/",
+     "sha256": "0af4408f68cb7e18b5bc8556b35b0cf11e1d9efedd27722390a35cb4b74c822a"
+    },
+    {
+     "from": "1991-10-15",
+     "units": 277,
+     "source_url": "https://sapl.praiagrande.sp.leg.br/ta/7/text/vigencia/122,1991-10-15,1992-04-07:MayTJo4ziMB62ZXNZlykufxLy6k/",
+     "sha256": "4e62d15b417ed15b88e56404904eab73813810905fb04e0e3d9c84dcdfa9603e"
+    },
+    {
+     "from": "1991-10-15",
+     "units": 277,
+     "source_url": "https://sapl.praiagrande.sp.leg.br/ta/7/text/vigencia/123,1991-10-15,1992-04-07:C69Dp2mbBeg6lXnCrB7Ob2_yYco/",
+     "sha256": "80e77759740962f24f7f7abbce500cb96f89c34384e7e6515b643c7d942a7bae"
+    },
+    {
+     "from": "1992-04-08",
+     "units": 277,
+     "source_url": "https://sapl.praiagrande.sp.leg.br/ta/7/text/vigencia/124,1992-04-08,1992-08-23:FE_Pj4UgFd6g4MTdhx4iJerorVE/",
+     "sha256": "d5bb8840f927e9a9cb459a03c87abf5e69a9695b8b4a26a295f5aa5cb59fe5cb"
+    },
+    {
+     "from": "1992-08-24",
+     "units": 277,
+     "source_url": "https://sapl.praiagrande.sp.leg.br/ta/7/text/vigencia/126,1992-08-24,1992-09-08:Wrlc5RJmL2UhIjmCvrSBepZ4UBA/",
+     "sha256": "d596a03123a0f0b891c43837e38ebee94e7bd0d1fc557307b33affed5a946d0f"
+    },
+    {
+     "from": "1992-08-24",
+     "units": 277,
+     "source_url": "https://sapl.praiagrande.sp.leg.br/ta/7/text/vigencia/127,1992-08-24,1992-09-08:XOP5f8Q8Q2sgta6befXdUFSeWus/",
+     "sha256": "3aaa4d24d9c4e106f3d591fbdfb03c11309e783c06e1f7abfb0d3525671fcf5c"
+    },
+    {
+     "from": "1992-09-09",
+     "units": 277,
+     "source_url": "https://sapl.praiagrande.sp.leg.br/ta/7/text/vigencia/129,1992-09-09,1992-11-10:CWGRgQ5ySx6ofs_pAc_-EKtpNmY/",
+     "sha256": "9d99ededc14b02b57e6ecc7a844b9556303be37f85b797d2ca75d847a566d60a"
+    },
+    {
+     "from": "1992-09-09",
+     "units": 277,
+     "source_url": "https://sapl.praiagrande.sp.leg.br/ta/7/text/vigencia/130,1992-09-09,1992-11-10:vapPBIYi_Thx1Y_CeXu9LxwM6NA/",
+     "sha256": "62d1fc3091e4b1942e761e7bc72eadd75c25146f8d72f3a8a9bace9344e5fe66"
+    },
+    {
+     "from": "1992-11-11",
+     "units": 277,
+     "source_url": "https://sapl.praiagrande.sp.leg.br/ta/7/text/vigencia/131,1992-11-11,1992-11-17:4l8LWLGP4mlhKZqpXzu-lFEPtAE/",
+     "sha256": "f64d5028a5e02d2d206eda69406d306fa481ae9969c08bc8a009c0039123dbc7"
+    },
+    {
+     "from": "1992-11-18",
+     "units": 277,
+     "source_url": "https://sapl.praiagrande.sp.leg.br/ta/7/text/vigencia/132,1992-11-18,1992-12-01:owGhv_5NRDjhvKzPMB2KYVuS6Mg/",
+     "sha256": "c12c108dc56171f79e3a99cc450b30233df60ea089e05f6383d8fc150ffd2384"
+    },
+    {
+     "from": "1992-12-02",
+     "units": 277,
+     "source_url": "https://sapl.praiagrande.sp.leg.br/ta/7/text/vigencia/133,1992-12-02,1993-01-25:6QQUeo7-t_f01Vw2_sRaWcCqopc/",
+     "sha256": "70bf24359210356ab50bc6a4222838ebf38bbb931484b3247c5d7810e95e0dd3"
+    },
+    {
+     "from": "1993-01-26",
+     "units": 277,
+     "source_url": "https://sapl.praiagrande.sp.leg.br/ta/7/text/vigencia/134,1993-01-26,1993-03-23:l0bXjokJBkvEI23LtyC5qRO-YVo/",
+     "sha256": "5766926a39a58a72643bb41cd0b93980ad4ecac43fdebbe21dbe1313d5d5da1b"
+    },
+    {
+     "from": "1993-03-24",
+     "units": 277,
+     "source_url": "https://sapl.praiagrande.sp.leg.br/ta/7/text/vigencia/135,1993-03-24,1993-04-06:klXjzwOGvqXs78NsrQofOPp-N78/",
+     "sha256": "616bf4f0f52ff59c91d8e582a6f0dac754031f8f4715c69b653ab8654f407505"
+    },
+    {
+     "from": "1993-04-07",
+     "units": 277,
+     "source_url": "https://sapl.praiagrande.sp.leg.br/ta/7/text/vigencia/137,1993-04-07,1993-04-13:TSzFZY6NgwwWq32vOUiljjzIZho/",
+     "sha256": "f244f2c25ab185e7f8ec2dc21ad011edf2cec5460d1d764d98a0d2058470f841"
+    },
+    {
+     "from": "1993-04-07",
+     "units": 277,
+     "source_url": "https://sapl.praiagrande.sp.leg.br/ta/7/text/vigencia/138,1993-04-07,1993-04-13:dXLMpXqNNyOvlcTp_Q9a_yt3b4c/",
+     "sha256": "863c0515804b66d29d45047f3c16bd57d6aaf6946b283502b1fd06b6c5c471d5"
+    },
+    {
+     "from": "1993-04-14",
+     "units": 277,
+     "source_url": "https://sapl.praiagrande.sp.leg.br/ta/7/text/vigencia/139,1993-04-14,1994-03-29:2CbKSyOcI8FL6VPk5z2pBKkmdtY/",
+     "sha256": "0086ed99b783ebb301301063b193321ca91484c5d4b7771d02fc629e04d698f5"
+    },
+    {
+     "from": "1994-03-30",
+     "units": 277,
+     "source_url": "https://sapl.praiagrande.sp.leg.br/ta/7/text/vigencia/140,1994-03-30,1994-05-10:4AAGnCkmKpJnUPB8g5b_e8hR-2M/",
+     "sha256": "7f52fd5779b3d90094cce7ff60121f57b564a178a09fd8663855a71270ffad5a"
+    },
+    {
+     "from": "1994-05-11",
+     "units": 277,
+     "source_url": "https://sapl.praiagrande.sp.leg.br/ta/7/text/vigencia/141,1994-05-11,1994-05-17:HyTFeIseYeJUdAZy4TueCVas4qw/",
+     "sha256": "e35ff2ae424c855d3863ea6af361d72e52996d03a5980d37fabc4d0631348d17"
+    },
+    {
+     "from": "1994-05-18",
+     "units": 277,
+     "source_url": "https://sapl.praiagrande.sp.leg.br/ta/7/text/vigencia/142,1994-05-18,1994-11-22:7l5wvlWHpq9GOPRLMhQmpTh9T0w/",
+     "sha256": "c980b2306bc6d1e27f54198a6419a763a575d09aade41be18e59d3c6114d4976"
+    },
+    {
+     "from": "1994-11-23",
+     "units": 277,
+     "source_url": "https://sapl.praiagrande.sp.leg.br/ta/7/text/vigencia/143,1994-11-23,1996-01-17:NM75qSlxGsMkWpq0pymI0gQWq08/",
+     "sha256": "376ba3de6649565b521b4da908b0cb5bd7bc62aae6fff40f98a87cc21ecf2e6f"
+    },
+    {
+     "from": "1996-01-18",
+     "units": 277,
+     "source_url": "https://sapl.praiagrande.sp.leg.br/ta/7/text/vigencia/144,1996-01-18,1996-03-26:kBrjsZ-1cY9VeDy8SIhd0HRU-gQ/",
+     "sha256": "e485745abcdd8fc04914d5b736b92aa3a8edc3bd7e605733e6b9c1c1c04d81a5"
+    },
+    {
+     "from": "1996-03-27",
+     "units": 277,
+     "source_url": "https://sapl.praiagrande.sp.leg.br/ta/7/text/vigencia/145,1996-03-27,1996-12-10:rmXBz492zvd7lqhaL3SefMJX2W4/",
+     "sha256": "75249edee6cbeca568fcab5ac4c5d8466edf13ef3b140ba83da16027517f9951"
+    },
+    {
+     "from": "1996-12-11",
+     "units": 277,
+     "source_url": "https://sapl.praiagrande.sp.leg.br/ta/7/text/vigencia/146,1996-12-11,1997-03-25:BkPkslvNf13XwxcpiQ7h1pd_fLw/",
+     "sha256": "4d4d2540906a3e681c4841f179ce4cd282b9f9c39f4a39626ea5f6d877bcb60a"
+    },
+    {
+     "from": "1997-03-26",
+     "units": 277,
+     "source_url": "https://sapl.praiagrande.sp.leg.br/ta/7/text/vigencia/147,1997-03-26,1997-04-15:CUtXaztcLfsnm0_luv2dhE5Wy4Q/",
+     "sha256": "10327ef8a64a82ffe31068e2892488066b866ddf11538ed2459dc98a8263acea"
+    },
+    {
+     "from": "1997-04-16",
+     "units": 277,
+     "source_url": "https://sapl.praiagrande.sp.leg.br/ta/7/text/vigencia/148,1997-04-16,1998-02-17:Xru2uHqxnbSwAMjUx94Kk3-2wbI/",
+     "sha256": "c5e21247c9ffb93f595016af9d2d83e13f62249e14a9b6f89967e6de30534cec"
+    },
+    {
+     "from": "1998-02-18",
+     "units": 277,
+     "source_url": "https://sapl.praiagrande.sp.leg.br/ta/7/text/vigencia/149,1998-02-18,1999-04-13:oWO3rMnlTvvi_AtmwofdyRfES34/",
+     "sha256": "697e5ac606273e0e945c711bd1f5798715dbb42c72df050b4a8af82d3e536211"
+    },
+    {
+     "from": "1999-04-14",
+     "units": 277,
+     "source_url": "https://sapl.praiagrande.sp.leg.br/ta/7/text/vigencia/150,1999-04-14,1999-05-25:8ox4gkoZPq6ks05L4fd1S-MH8hc/",
+     "sha256": "54450189a4773f84a2f96f8dd4702d7c6adff4d3cdf3da7ead407e588589115f"
+    },
+    {
+     "from": "1999-05-26",
+     "units": 277,
+     "source_url": "https://sapl.praiagrande.sp.leg.br/ta/7/text/vigencia/151,1999-05-26,1999-11-02:2Y27Ghez1cgR5Y1Lay1id5WJgRE/",
+     "sha256": "1d5b27ef2da09faf3a1ca3537f4ce302e49fa87789a6a8c196f18f72fc2149c1"
+    },
+    {
+     "from": "1999-11-03",
+     "units": 277,
+     "source_url": "https://sapl.praiagrande.sp.leg.br/ta/7/text/vigencia/152,1999-11-03,2000-06-27:XGkCWio6jUctoXYC-tDXwMsLj48/",
+     "sha256": "bc2affebb6f85b41e175a9cb584b85e3c325288415f294ca9ffbf2eb810668ff"
+    },
+    {
+     "from": "1999-11-03",
+     "units": 277,
+     "source_url": "https://sapl.praiagrande.sp.leg.br/ta/7/text/vigencia/153,1999-11-03,2000-06-27:XVdRMu__MjdtK2HPCwsX_U-cvN0/",
+     "sha256": "1cae30084a4af0dfe7fc3042380a3b33fcd3064e53c5b63f5ddc4e789dc372eb"
+    },
+    {
+     "from": "2000-06-28",
+     "units": 277,
+     "source_url": "https://sapl.praiagrande.sp.leg.br/ta/7/text/vigencia/154,2000-06-28,2000-09-12:yBIvRO7vtEBOJo39zSkuKspZaw4/",
+     "sha256": "15d6b9a4bb66ba6bb533dce8e4ed65b2f1c15c87ed3be4bdbbf83365e0fcfcba"
+    },
+    {
+     "from": "2000-09-13",
+     "units": 277,
+     "source_url": "https://sapl.praiagrande.sp.leg.br/ta/7/text/vigencia/155,2000-09-13,2000-11-28:X5taXr0P6EScn425nQ8wtvx48x0/",
+     "sha256": "23b05f3a07ada6400b3c219cd4ff1bb6b5c68dd80b27035ea82dc78bc5a8b8ae"
+    },
+    {
+     "from": "2000-11-29",
+     "units": 277,
+     "source_url": "https://sapl.praiagrande.sp.leg.br/ta/7/text/vigencia/156,2000-11-29,2001-06-19:D8jKDwVruzMC7C6XVmE5YXDZU5Y/",
+     "sha256": "9eddc12405954520a2ac624cba2d71c2d1eb0d11dd5988f7d75e472a6ae7d7e3"
+    },
+    {
+     "from": "2001-06-20",
+     "units": 277,
+     "source_url": "https://sapl.praiagrande.sp.leg.br/ta/7/text/vigencia/157,2001-06-20,2001-12-18:LG-D-CE2r5zxiUupujamIIhYm-k/",
+     "sha256": "f602d581844aeff8d8e471ac164015542267e900d01e29e6356f8abb2a7407a1"
+    },
+    {
+     "from": "2001-12-19",
+     "units": 277,
+     "source_url": "https://sapl.praiagrande.sp.leg.br/ta/7/text/vigencia/158,2001-12-19,2003-03-05:dZbKanG0P5b5iTBjyyf7pxU1KzI/",
+     "sha256": "485807b138b16199e56efaa8f4bd0a376a068b392cbee8f8dd8e0079668bc29c"
+    },
+    {
+     "from": "2003-03-06",
+     "units": 277,
+     "source_url": "https://sapl.praiagrande.sp.leg.br/ta/7/text/vigencia/159,2003-03-06,2003-04-01:VGbQsC7XFlWCjvAyvoVqrK5G8QQ/",
+     "sha256": "848623f382a7fb31d3d0e3b9465f1da4cbc51a80c8398c61dd810ac3faf853ee"
+    },
+    {
+     "from": "2003-04-02",
+     "units": 277,
+     "source_url": "https://sapl.praiagrande.sp.leg.br/ta/7/text/vigencia/160,2003-04-02,2003-05-13:YKZ9sgsHMFoX8N2Ay6DP6G96y5o/",
+     "sha256": "2df9dbee57d583332513ca34dce9648d0f365e9f06dc4ea5d719473a51d0582e"
+    },
+    {
+     "from": "2003-05-14",
+     "units": 277,
+     "source_url": "https://sapl.praiagrande.sp.leg.br/ta/7/text/vigencia/161,2003-05-14,2004-06-10:lZH8bC5blKSjCUaAOTtS52gQ-nE/",
+     "sha256": "72d723ed1c50720664371e4de65b8dd11be265605ce2c68c3eb96307250b16b4"
+    },
+    {
+     "from": "2004-06-11",
+     "units": 277,
+     "source_url": "https://sapl.praiagrande.sp.leg.br/ta/7/text/vigencia/162,2004-06-11,2006-05-23:ocwXKMMyxsmy8lfz26ObPRwB3WE/",
+     "sha256": "e1b500f994df2893061b44dbc9353de09edda1aed46c3aaf9bfccf282d461a39"
+    },
+    {
+     "from": "2006-05-24",
+     "units": 277,
+     "source_url": "https://sapl.praiagrande.sp.leg.br/ta/7/text/vigencia/116,2006-05-24,2006-06-06:t9Gxjhg3ofSEDi3wGpyYEe4JEG4/",
+     "sha256": "7a0e43c3c155c3253ed6bfde252640592486f843affc0d99276c8400dd9d00aa"
+    },
+    {
+     "from": "2006-06-07",
+     "units": 277,
+     "source_url": "https://sapl.praiagrande.sp.leg.br/ta/7/text/vigencia/163,2006-06-07,2007-08-28:0Gf6VhS03qcJ2vZ9itUJqH4QjQ8/",
+     "sha256": "5078598495e6556beedd72584634dfe911eb728d236a3096c49f21188dbb081d"
+    },
+    {
+     "from": "2007-08-29",
+     "units": 277,
+     "source_url": "https://sapl.praiagrande.sp.leg.br/ta/7/text/vigencia/164,2007-08-29,2008-03-11:fj3-AcR-sr64ll6bKjWZMDb0nIA/",
+     "sha256": "a59d21c41b182ff4e4e57f58deda5c23a0d963043e309118070acd2efa984cb8"
+    },
+    {
+     "from": "2008-03-12",
+     "units": 278,
+     "source_url": "https://sapl.praiagrande.sp.leg.br/ta/7/text/vigencia/165,2008-03-12,2008-05-20:sbKTKvF8hn752ZLk3qvOiOF27fg/",
+     "sha256": "814b7812eb707c342ce946ac9fdb4e950d0c7eaba5a562271549fd39db1728ba"
+    },
+    {
+     "from": "2008-05-21",
+     "units": 278,
+     "source_url": "https://sapl.praiagrande.sp.leg.br/ta/7/text/vigencia/166,2008-05-21,2008-12-11:txYp2Kt697d7HWLFYOLvVWSS62w/",
+     "sha256": "102f620fedb2e90454e0b06b419ffc33047116b027f3d0781317e46c6b105b1e"
+    },
+    {
+     "from": "2008-12-12",
+     "units": 278,
+     "source_url": "https://sapl.praiagrande.sp.leg.br/ta/7/text/vigencia/167,2008-12-12,2009-02-25:VB2tOViUwVdd398hU0d8dcZy1JU/",
+     "sha256": "b2e70c8997d6aa164e161816906c77b15bc3f6d207d5aab17c25a40975c14dc6"
+    },
+    {
+     "from": "2009-02-26",
+     "units": 278,
+     "source_url": "https://sapl.praiagrande.sp.leg.br/ta/7/text/vigencia/168,2009-02-26,2010-04-21:EkXP6zLYTvbyhiOhP1YWV52G5gE/",
+     "sha256": "7115fb8ad6c7ccce9c0241fada51bd5597ade0a730e0826dd0702528adad5d73"
+    },
+    {
+     "from": "2010-04-22",
+     "units": 278,
+     "source_url": "https://sapl.praiagrande.sp.leg.br/ta/7/text/vigencia/169,2010-04-22,2010-12-14:0pGHcofzuv-pfqJZoMMV_Jc4seE/",
+     "sha256": "a1f68fe431d2214a6d7f0b6a99ee92b62483cdf7c8c8ccc12f4aa0071d74d92b"
+    },
+    {
+     "from": "2010-12-15",
+     "units": 278,
+     "source_url": "https://sapl.praiagrande.sp.leg.br/ta/7/text/vigencia/170,2010-12-15,2015-12-01:5yBE9gcTWwekZ3I3A9htmamf7ys/",
+     "sha256": "73b5442996a938a0913bd8697f412d870419a6e76020ce4553562348417d5b95"
+    },
+    {
+     "from": "2015-12-02",
+     "units": 278,
+     "source_url": "https://sapl.praiagrande.sp.leg.br/ta/7/text/vigencia/171,2015-12-02,2017-03-21:q8sWnANG5wBSe-oldxouBu19C_0/",
+     "sha256": "68d8a72dbb1af67ff7aaf1bef4b7d342805a292be5de72067c21f09105aad3d7"
+    },
+    {
+     "from": "2017-03-22",
+     "units": 278,
+     "source_url": "https://sapl.praiagrande.sp.leg.br/ta/7/text/vigencia/172,2017-03-22,2017-06-26:n7Nn445KF5HwsOUqMj89N2dJmeo/",
+     "sha256": "90045cdc990a74e6c3800129384a4aeed280fe2e901bbdd269e2be855a33d866"
+    },
+    {
+     "from": "2017-06-27",
+     "units": 278,
+     "source_url": "https://sapl.praiagrande.sp.leg.br/ta/7/text/vigencia/173,2017-06-27,2017-12-04:McOdaQQaRLMQgYGqJyVo7dU8MJ4/",
+     "sha256": "f12541efa93b3754e6aa1a9c9f8e33dc8209b1758496381457442bc713ccfeba"
+    },
+    {
+     "from": "2017-12-05",
+     "units": 278,
+     "source_url": "https://sapl.praiagrande.sp.leg.br/ta/7/text/vigencia/174,2017-12-05,2018-09-10:9OxiGbjzhU1TW5hscjmhu6BbvYI/",
+     "sha256": "2adeefc1f1bd5982a73afd88384d9b8f1d2dfa4e66b9af0d270d9588be817eae"
+    },
+    {
+     "from": "2018-09-11",
+     "units": 278,
+     "source_url": "https://sapl.praiagrande.sp.leg.br/ta/7/text/vigencia/175,2018-09-11,2020-06-29:1NaAaJ1_c1Zz2v12HsG7qoOrs3c/",
+     "sha256": "19642d30ebf6e5dd6ad165d1263aeb5cc7fbab11a239d689f6cf1590ff9a9081"
+    },
+    {
+     "from": "2020-06-30",
+     "units": 279,
+     "source_url": "https://sapl.praiagrande.sp.leg.br/ta/7/text/vigencia/55,2020-06-30,2020-10-05:JpD3f4eTuReX9HJrKcYYy2qHSRE/",
+     "sha256": "a29ec35d3346b2b48ad44b3895c327e1d2fa49a779bb895db0a8c04bac0ea9b9"
+    },
+    {
+     "from": "2020-10-06",
+     "units": 279,
+     "source_url": "https://sapl.praiagrande.sp.leg.br/ta/7/text/vigencia/762,2020-10-06,2021-06-07:h0RQIIknf1CBDYd1okfCnwzEkzM/",
+     "sha256": "5615c51f7a5bbe92b7c8be204ce8291bb2b078c6af6a7eedb26176f0ccdeaea0"
+    },
+    {
+     "from": "2021-06-08",
+     "units": 279,
+     "source_url": "https://sapl.praiagrande.sp.leg.br/ta/7/text/vigencia/1107,2021-06-08,2021-12-26:OrA6SdAieVVOoDApPjV87zJL2YY/",
+     "sha256": "23f20aa2d1bd166688dc93bd38fd290edfd5edb6f9b41a5f0cbae7e3481249ba"
+    },
+    {
+     "from": "2021-12-27",
+     "units": 279,
+     "source_url": "https://sapl.praiagrande.sp.leg.br/ta/7/text/vigencia/1108,2021-12-27,2022-02-23:u-b2pe7bXw2VKqJyllNZk88DmLs/",
+     "sha256": "57364ea9214ad2cc654d1b6d7f2fbe0506d34136f4b3f1a18c4c7490ea6256bc"
+    },
+    {
+     "from": "2022-02-24",
+     "units": 279,
+     "source_url": "https://sapl.praiagrande.sp.leg.br/ta/7/text/vigencia/1109,2022-02-24,2022-03-31:WGBGHcf0RWaxXWsC1lN9ojpUFEM/",
+     "sha256": "79118f7dea5c0974048d49ebb26707bec6e0c2e09a7286b8b8795623a9e133a4"
+    },
+    {
+     "from": "2022-04-01",
+     "units": 279,
+     "source_url": "https://sapl.praiagrande.sp.leg.br/ta/7/text/vigencia/1110,2022-04-01,2022-04-05:GfE8IBHLLUBbx3teDPHgyZAQIJY/",
+     "sha256": "18e0aee8301dd16962ebfc65c80041152d60942b2f3b8c54989aeea1fbee45aa"
+    },
+    {
+     "from": "2022-04-06",
+     "units": 279,
+     "source_url": "https://sapl.praiagrande.sp.leg.br/ta/7/text/vigencia/1111,2022-04-06,2022-09-26:CuuHAG_6Wc6wIgidLWv5zn6fEe8/",
+     "sha256": "8bba0b88fe0c502ee7295e8b47505995ae5f40015d7b062a65172632cc9877b2"
+    },
+    {
+     "from": "2022-09-27",
+     "units": 279,
+     "source_url": "https://sapl.praiagrande.sp.leg.br/ta/7/text/vigencia/1112,2022-09-27,2024-06-24:XrVv2foMX0lcn4Z9_PVsTUREsls/",
+     "sha256": "474c64215a50c791002fa58621ca3897dd6138895b5ad1a5f427ea5b22890821"
+    },
+    {
+     "from": "2024-06-25",
+     "units": 279,
+     "source_url": "https://sapl.praiagrande.sp.leg.br/norma/4",
+     "sha256": "631c7a69f40014a3a82d5b5497f5472c076d020560552fae8a36e6f7fa480053"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-01974",
+   "short": "Lei 1974/2019",
+   "title": "Lei nº 1.974, de 12 de dezembro de 2019",
+   "url": "https://sapl.praiagrande.sp.leg.br/norma/26",
+   "versions": [
+    {
+     "from": "2019-12-12",
+     "units": 3,
+     "source_url": "https://sapl.praiagrande.sp.leg.br/media/sapl/public/normajuridica/2019/26/lei_1974.pdf",
+     "sha256": "da4539ed64c91b7bbfab5b492273d60a3e6e75bd1fc4b4ab6de3b41a11f96eb5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-01973",
+   "short": "Lei 1973/2019",
+   "title": "Lei nº 1.973, de 12 de dezembro de 2019",
+   "url": "https://sapl.praiagrande.sp.leg.br/norma/28",
+   "versions": [
+    {
+     "from": "2019-12-12",
+     "units": 3,
+     "source_url": "https://sapl.praiagrande.sp.leg.br/media/sapl/public/normajuridica/2019/28/lei_1973.pdf",
+     "sha256": "ae69ed6ed030e92651b5980a04342416485501f4151da07b5db919d88dc9efca"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-01925",
+   "short": "Lei 1925/2019",
+   "title": "Lei nº 1.925, de 11 de fevereiro de 2019",
+   "url": "https://sapl.praiagrande.sp.leg.br/norma/1",
+   "versions": [
+    {
+     "from": "2019-02-19",
+     "units": 4,
+     "source_url": "https://sapl.praiagrande.sp.leg.br/media/sapl/public/normajuridica/2019/1/lei_1925.pdf",
+     "sha256": "c04ceec7aedfe7cd359299a55b6113092ab5b8499497843c65be5b9ad00fd57a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-01924",
+   "short": "Lei 1924/2019",
+   "title": "Lei nº 1.924, de 7 de fevereiro de 2019",
+   "url": "https://sapl.praiagrande.sp.leg.br/norma/25",
+   "versions": [
+    {
+     "from": "2019-02-07",
+     "units": 6,
+     "source_url": "https://sapl.praiagrande.sp.leg.br/media/sapl/public/normajuridica/2019/25/lei_1924.pdf",
+     "sha256": "45339f0cc4c1fbc4a1064ad9fab00c2bbd01292a2ad9c35f0c83e8827bc2e7a8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-01923",
+   "short": "Lei 1923/2019",
+   "title": "Lei nº 1.923, de 10 de janeiro de 2019",
+   "url": "https://sapl.praiagrande.sp.leg.br/norma/24",
+   "versions": [
+    {
+     "from": "2019-01-10",
+     "units": 5,
+     "source_url": "https://sapl.praiagrande.sp.leg.br/media/sapl/public/normajuridica/2019/24/lei_1923.pdf",
+     "sha256": "11ca6be274faad421749dc6013cdcf210df86415b080636f51865a83addd7f75"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-01918",
+   "short": "Lei 1918/2018",
+   "title": "Lei nº 1.918, de 18 de dezembro de 2018",
+   "url": "https://sapl.praiagrande.sp.leg.br/norma/27",
+   "versions": [
+    {
+     "from": "2018-12-18",
+     "units": 9,
+     "source_url": "https://sapl.praiagrande.sp.leg.br/media/sapl/public/normajuridica/2018/27/lei_1918.pdf",
+     "sha256": "fdf8e5d11a0ab602a3ebd61c355687a15659488fcdc07ef4c20329a9b02ae655"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-01765",
+   "short": "Lei 1765/2015",
+   "title": "Lei nº 1.765, de 24 de abril de 2015",
+   "url": "https://sapl.praiagrande.sp.leg.br/norma/11",
+   "versions": [
+    {
+     "from": "2015-04-24",
+     "units": 6,
+     "source_url": "https://sapl.praiagrande.sp.leg.br/media/sapl/public/normajuridica/2015/11/lei_1765.pdf",
+     "sha256": "6ff16fbc3c6830d071e1321efc7055305d07b2c78d68d2da42ba04d24508210d"
+    }
+   ]
+  }
+ ]
+}
