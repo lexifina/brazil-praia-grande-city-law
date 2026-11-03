@@ -1,0 +1,33 @@
+{
+ "parts": {
+  "10-lei-organica.json": {
+   "acts": [
+    "lei-organica"
+   ],
+   "sha256": "d66c19d120f3be659a87df078791397c892d9f0538dada5631f917cd79a7deaf"
+  },
+  "30-leis-002.json": {
+   "acts": [
+    "lei-2019-01973",
+    "lei-2019-01974"
+   ],
+   "sha256": "ef10508c5fdc790ca2285409c62e8c96845dec640d1c6b0640cff415347034db"
+  },
+  "30-leis-004.json": {
+   "acts": [
+    "lei-2018-01918",
+    "lei-2019-01923",
+    "lei-2019-01924",
+    "lei-2019-01925"
+   ],
+   "sha256": "0f9b3bb83d3c64a73be8148f88e4b5b22ac30c02094a47074bba8b7c1aa28b8a"
+  },
+  "30-leis-009.json": {
+   "acts": [
+    "lei-2015-01765"
+   ],
+   "sha256": "7cbcd2c61d23d4cfe63d4929038c75d8a70681f5c0ef455ddafd0166b58312b3"
+  }
+ },
+ "schema": 1
+}
