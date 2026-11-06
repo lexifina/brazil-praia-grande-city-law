@@ -508,6 +508,146 @@
      "sha256": "6ff16fbc3c6830d071e1321efc7055305d07b2c78d68d2da42ba04d24508210d"
     }
    ]
+  },
+  {
+   "slug": "lei-1979-00353",
+   "short": "Lei 353/1979",
+   "title": "Lei nº 353, de 21 de dezembro de 1979",
+   "url": "https://sapl.praiagrande.sp.leg.br/norma/916",
+   "versions": [
+    {
+     "from": "1979-12-21",
+     "units": 4,
+     "source_url": "https://sapl.praiagrande.sp.leg.br/media/sapl/public/normajuridica/1979/916/lei_0353-1979.pdf",
+     "sha256": "ed6189b1640e23d3336d2c25c465914836c7f6a3598b3fcd190bcecfbc64b987"
+    }
+   ]
+  },
+  {
+   "slug": "lei-1975-00239",
+   "short": "Lei 239/1975",
+   "title": "Lei nº 239, de 23 de dezembro de 1975",
+   "url": "https://sapl.praiagrande.sp.leg.br/norma/912",
+   "versions": [
+    {
+     "from": "1975-12-23",
+     "units": 7,
+     "source_url": "https://sapl.praiagrande.sp.leg.br/media/sapl/public/normajuridica/1975/912/lei_0239-1975.pdf",
+     "sha256": "225afac2aa90b77e5faee813112ddf4d4b899d5fc3c5e9b530e4b72382238673"
+    }
+   ]
+  },
+  {
+   "slug": "lei-1975-00220",
+   "short": "Lei 220/1975",
+   "title": "Lei nº 220, de 22 de agosto de 1975",
+   "url": "https://sapl.praiagrande.sp.leg.br/norma/946",
+   "versions": [
+    {
+     "from": "1975-08-22",
+     "units": 8,
+     "source_url": "https://sapl.praiagrande.sp.leg.br/media/sapl/public/normajuridica/1975/946/lei_0220-1975.pdf",
+     "sha256": "6a1dc56da6984b7add33bd18adf6e8c21b5b1dd4a043fdd72d69ed3841397f46"
+    }
+   ]
+  },
+  {
+   "slug": "lei-1975-00213",
+   "short": "Lei 213/1975",
+   "title": "Lei nº 213, de 14 de janeiro de 1975",
+   "url": "https://sapl.praiagrande.sp.leg.br/norma/911",
+   "versions": [
+    {
+     "from": "1975-01-14",
+     "units": 9,
+     "source_url": "https://sapl.praiagrande.sp.leg.br/media/sapl/public/normajuridica/1975/911/lei_0213-1975.pdf",
+     "sha256": "1790d238e978ecf1c2b9109f5c07048cb7201982008dd65d6fbaf7149ba32ecd"
+    }
+   ]
+  },
+  {
+   "slug": "lei-1974-00190",
+   "short": "Lei 190/1974",
+   "title": "Lei nº 190, de 30 de maio de 1974",
+   "url": "https://sapl.praiagrande.sp.leg.br/norma/944",
+   "versions": [
+    {
+     "from": "1974-05-30",
+     "units": 7,
+     "source_url": "https://sapl.praiagrande.sp.leg.br/media/sapl/public/normajuridica/1974/944/lei_0190-1974.pdf",
+     "sha256": "c96722b243d6ab7866bab04c09a1bf6e81c523aef1900dc601b54ca560bad846"
+    }
+   ]
+  },
+  {
+   "slug": "lei-1974-00180",
+   "short": "Lei 180/1974",
+   "title": "Lei nº 180, de 29 de abril de 1974",
+   "url": "https://sapl.praiagrande.sp.leg.br/norma/910",
+   "versions": [
+    {
+     "from": "1974-04-29",
+     "units": 11,
+     "source_url": "https://sapl.praiagrande.sp.leg.br/media/sapl/public/normajuridica/1974/910/lei_0180-1974.pdf",
+     "sha256": "79361ad4a56e9f149722359955852c6c9f2abfec3b18121d59a9bb2fad939c22"
+    }
+   ]
+  },
+  {
+   "slug": "lei-1973-00151",
+   "short": "Lei 151/1973",
+   "title": "Lei nº 151, de 29 de junho de 1973",
+   "url": "https://sapl.praiagrande.sp.leg.br/norma/909",
+   "versions": [
+    {
+     "from": "1973-06-29",
+     "units": 5,
+     "source_url": "https://sapl.praiagrande.sp.leg.br/media/sapl/public/normajuridica/1973/909/lei_0151-1973.pdf",
+     "sha256": "5619453fbfb3d260246d08bc3c7312acaef5b315547477f4edc4c28600f3d6d6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-1973-00146",
+   "short": "Lei 146/1973",
+   "title": "Lei nº 146, de 30 de maio de 1973",
+   "url": "https://sapl.praiagrande.sp.leg.br/norma/889",
+   "versions": [
+    {
+     "from": "1973-05-30",
+     "units": 9,
+     "source_url": "https://sapl.praiagrande.sp.leg.br/media/sapl/public/normajuridica/1973/889/lei_0146-1973.pdf",
+     "sha256": "2bad066e47ad19bd1cb31877ac09b6485942b941d3ae895261272ef8e023e68e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-1973-00129",
+   "short": "Lei 129/1973",
+   "title": "Lei nº 129, de 21 de fevereiro de 1973",
+   "url": "https://sapl.praiagrande.sp.leg.br/norma/943",
+   "versions": [
+    {
+     "from": "1973-02-21",
+     "units": 5,
+     "source_url": "https://sapl.praiagrande.sp.leg.br/media/sapl/public/normajuridica/1973/943/lei_0129-1973.pdf",
+     "sha256": "1e9d7308ae6a2462845f42e11d169040cf4ea5a28d59da6092860f8dda699a13"
+    }
+   ]
+  },
+  {
+   "slug": "lei-1973-00125",
+   "short": "Lei 125/1973",
+   "title": "Lei nº 125, de 8 de janeiro de 1973",
+   "url": "https://sapl.praiagrande.sp.leg.br/norma/888",
+   "versions": [
+    {
+     "from": "1973-01-08",
+     "units": 9,
+     "source_url": "https://sapl.praiagrande.sp.leg.br/media/sapl/public/normajuridica/1973/888/lei_0125-1973.pdf",
+     "sha256": "196ab4e23ca7c7e436de5d50544fd2b2ac1a027f383a0dec013b722082b252ad"
+    }
+   ]
   }
  ]
 }
