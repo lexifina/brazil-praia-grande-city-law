@@ -648,6 +648,20 @@
      "sha256": "196ab4e23ca7c7e436de5d50544fd2b2ac1a027f383a0dec013b722082b252ad"
     }
    ]
+  },
+  {
+   "slug": "lei-1970-00026",
+   "short": "Lei 26/1970",
+   "title": "Lei nº 26, de 2 de fevereiro de 1970",
+   "url": "https://sapl.praiagrande.sp.leg.br/norma/349",
+   "versions": [
+    {
+     "from": "1970-02-02",
+     "units": 8,
+     "source_url": "https://sapl.praiagrande.sp.leg.br/media/sapl/public/normajuridica/1970/349/lei_0026-1970.pdf",
+     "sha256": "917f96cb8b3c7ec74898157b998285d7e7ade0e9649dc15ebbc3bba9cfa2d1f9"
+    }
+   ]
   }
  ]
 }
